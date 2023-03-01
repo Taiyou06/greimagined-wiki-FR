@@ -42,5 +42,5 @@ Vous pouvez choisir votre classe en accord avec les différentes races présente
 
 Il y a 10 cultures personalisées mais aussi un système d'irragation et les cultures sont également affectées par les saisons!
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Cultures, arroseurs et épouvantail !</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Cultures, arroseurs et épouvantail !</p></figcaption></figure>
 

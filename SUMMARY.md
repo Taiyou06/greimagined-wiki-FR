@@ -5,12 +5,12 @@
 
 ## Overview
 
-* [💡 Quelle est la mission de ce projet?](overview/quelle-est-la-mission-de-ce-projet.md)
-* [✨ Nos aspects](overview/nos-aspects.md)
+* [💡 Quelle est la mission de ce projet?](overview/whats-the-mission-of-this-project.md)
+* [✨ Nos aspects](overview/our-features.md)
 
 ## Server Guide
 
-* [📪 Starting out](server-guide/starting-out.md)
+* [📪 Débuter](server-guide/debuter.md)
 * [⚔ Classes, skills, & attributes](server-guide/classes-skills-and-attributes.md)
 
 ## Helping the server&#x20;

@@ -24,7 +24,7 @@ One of the first things you should do is pick your class! Each class has differe
 
 _Picking a class, as well as 'upgrading' to a sub-class, will consume one class point._
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>The Tengu class. They trade mana and damage for better health stats.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>The Tengu class. They trade mana and damage for better health stats.</p></figcaption></figure>
 
 ### Attributes <a href="#attributes" id="attributes"></a>
 
