@@ -1,6 +1,6 @@
 # 💡 Quelle est la mission de ce projet?
 
-J'ai commencer à travailler sur ce projet en fin-mi 2022. J'ai toujours voulu voir un serveur minecraft touhou.\
+J'ai commencer à travailler sur ce projet en fin-mi 2022. J'ai toujours voulu voir un serveur minecraft touhou. test\
 \
 Il y a toujours un serveur (il me semble) appelé [Yukkuri Craft](https://yukkuricraft.net/), plus classique, de ce que j'ai vu un serveur relax dédié à la constuction et je souhaite quelque chose d'aussi classique, mais en ajoutant une grande dimension de MMORPG avec une immense carte à explorer, pour construire et combattre sans aucun mod additionel afin de délivrer une expérience authentique de Gensokyo !\
 \
